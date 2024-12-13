@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.mjs
-    siteTitle: `alexander.matsson`,
+    siteTitle: `@alexander.matsson`,
     siteTitleAlt: `Alexander - Portfolio`,
     siteHeadline: `Photographies from life by @alexander.matsson`,
     siteUrl: `https://stingray-app-d74hj.ondigitalocean.app/`,
